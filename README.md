@@ -1,2 +1,2 @@
 # RepositorioProyecto
-Repositorio proyecto Jaime Arias
+Repositorio proyecto Jaime Arias y Yamit García
